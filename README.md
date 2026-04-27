@@ -7,14 +7,9 @@ Landing page estática para posicionar a Vortheon Labs em infraestrutura digital
 ```text
 /
 |-- index.html
-|-- cloud-security-empresas.html
-|-- desenvolvimento-saas.html
-|-- consultoria-analytics.html
-|-- infraestrutura-ecommerce.html
 |-- assets/
 |   |-- css/
 |   |   |-- style.css
-|   |   `-- page.css
 |   |-- js/
 |   |   `-- main.js
 |   `-- img/
@@ -57,7 +52,7 @@ Eventos já preparados:
 
 ## SEO
 
-O projeto inclui `robots.txt`, `sitemap.xml`, canonical URL, Open Graph, Twitter Card, favicon e Schema.org em JSON-LD na home.
+O projeto é uma landing page única em `index.html` e inclui `robots.txt`, `sitemap.xml`, canonical URL, Open Graph, Twitter Card, favicon e Schema.org em JSON-LD.
 
 Antes de publicar, confirme se o domínio final é `https://vortheonlabs.com.br/`. Se mudar, atualize `index.html`, `robots.txt` e `sitemap.xml`.
 
