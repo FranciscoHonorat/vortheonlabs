@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Vortheon Labs">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#3ee5d1"/>
+      <stop offset="1" stop-color="#4f8cff"/>
+    </linearGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0H0v56" fill="none" stroke="#ffffff" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#06070a"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <circle cx="910" cy="120" r="300" fill="#4f8cff" opacity=".18"/>
+  <circle cx="180" cy="440" r="240" fill="#3ee5d1" opacity=".13"/>
+  <rect x="72" y="72" width="76" height="76" rx="18" fill="#0d1017" stroke="#3ee5d1" stroke-width="3"/>
+  <path d="M92 94h12l10 39 10-39h12l-17 52h-10L92 94Z" fill="#3ee5d1"/>
+  <text x="170" y="126" fill="#f8fbff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="800">Vortheon Labs</text>
+  <text x="72" y="252" fill="#f8fbff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="70" font-weight="850">Infraestrutura segura,</text>
+  <text x="72" y="334" fill="#f8fbff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="70" font-weight="850">inteligente e automatizada.</text>
+  <text x="74" y="430" fill="#b7c4d6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30">Cloud Security, AI/Data Infrastructure e Automation.</text>
+  <rect x="74" y="490" width="255" height="50" rx="8" fill="url(#g)"/>
+  <text x="104" y="524" fill="#05111d" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Agendar Diagnóstico</text>
+</svg>

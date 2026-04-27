@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vortheon Labs">
+  <rect width="64" height="64" rx="14" fill="#06070a"/>
+  <rect x="7" y="7" width="50" height="50" rx="11" fill="#0d1017" stroke="#3ee5d1" stroke-width="2"/>
+  <path d="M18 17h7l7 26 7-26h7L35 47h-6L18 17Z" fill="#3ee5d1"/>
+</svg>
