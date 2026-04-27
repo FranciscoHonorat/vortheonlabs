@@ -1,6 +1,6 @@
 # Vortheon Labs Landing Page
 
-Landing page estática para posicionar a Vortheon Labs em infraestrutura digital segura, SaaS Engineering, Data Analytics, E-commerce Infrastructure e Web Services.
+Landing page estática para posicionar a Vortheon Labs como empresa premium de Cloud Security, AI/Data Infrastructure e Infrastructure Automation.
 
 ## Estrutura
 
@@ -41,12 +41,11 @@ Eventos já preparados:
 - `whatsapp_click`
 - `phone_click`
 - `email_click`
-- `schedule_diagnostic_click`
-- `architecture_request_click`
-- `audit_request_click`
-- `offer_cloud_security_assessment_click`
-- `offer_analytics_audit_click`
-- `offer_saas_architecture_review_click`
+- `primary_cta_click`
+- `cloud_security_assessment_click`
+- `data_infrastructure_audit_click`
+- `infrastructure_automation_review_click`
+- `map_operation_risks_click`
 - `lead_form_submit`
 - `whatsapp_lead_open`
 
